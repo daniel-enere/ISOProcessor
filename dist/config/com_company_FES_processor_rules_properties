@@ -1,3 +1,6 @@
 com.company.iso.processor.card.asiv.bins=54321,54211
+com.company.iso.processor.card.asiv.valid.network.number=12456
+
+
 com.company.iso.processor.card.master.bins=78922,78229
-com.company.iso.processor.card
+com.company.iso.processor.card.master.valid.network.number=22789

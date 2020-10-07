@@ -1,6 +1,16 @@
 package com.company.iso.processor;
 
+import java.util.logging.Logger;
+
+import com.company.iso.request.Request;
+import com.company.iso.response.Response;
+import com.company.util.LoggerManager;
+
 public class FES {
+	
+	private Logger logger = LoggerManager.getSoleInstance().getLogger();
+	private Response response = null;
+	private Request request = null;
 
 	public static void main(String[] args) {
 				

@@ -1,0 +1,5 @@
+.classpath
+.project
+.settings/
+bin/
+dist/config/com_company_dbUtils_properties

@@ -12,8 +12,7 @@ public interface Card {
 	String getPan();
 	Person getPerson();
 	Person[] getPersons();
-	Account getAccount(int accountId);
-	Account[] getAccounts();
+	Account getAccount();
 	String getExpiration();
 	String getCVC();
 	
